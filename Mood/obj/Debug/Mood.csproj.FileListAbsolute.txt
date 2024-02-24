@@ -1,0 +1,136 @@
+E:\ASP\BaiTapLon\Mood\bin\Debug\Mood.dll.config
+E:\ASP\BaiTapLon\Mood\bin\Debug\Mood.dll
+E:\ASP\BaiTapLon\Mood\bin\Debug\Mood.pdb
+E:\ASP\BaiTapLon\Mood\bin\Debug\EntityFramework.dll
+E:\ASP\BaiTapLon\Mood\bin\Debug\EntityFramework.SqlServer.dll
+E:\ASP\BaiTapLon\Mood\bin\Debug\EntityFramework.xml
+E:\ASP\BaiTapLon\Mood\bin\Debug\EntityFramework.SqlServer.xml
+E:\ASP\BaiTapLon\Mood\obj\Debug\Mood.csprojResolveAssemblyReference.cache
+E:\ASP\BaiTapLon\Mood\obj\Debug\Mood.dll
+E:\ASP\BaiTapLon\Mood\obj\Debug\Mood.pdb
+E:\ASP\BaiTapLon\Mood\bin\Debug\PagedList.dll
+E:\ASP\BaiTapLon\Mood\bin\Debug\PagedList.Mvc.dll
+E:\ASP\BaiTapLon\Mood\bin\Debug\PagedList.xml
+E:\ASP\BaiTapLon\Mood\bin\Debug\PagedList.Mvc.xml
+D:\Jquery\BaiTapLon\Mood\bin\Debug\Mood.dll.config
+D:\Jquery\BaiTapLon\Mood\bin\Debug\Mood.dll
+D:\Jquery\BaiTapLon\Mood\bin\Debug\Mood.pdb
+D:\Jquery\BaiTapLon\Mood\bin\Debug\EntityFramework.dll
+D:\Jquery\BaiTapLon\Mood\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jquery\BaiTapLon\Mood\bin\Debug\PagedList.dll
+D:\Jquery\BaiTapLon\Mood\bin\Debug\PagedList.Mvc.dll
+D:\Jquery\BaiTapLon\Mood\bin\Debug\EntityFramework.xml
+D:\Jquery\BaiTapLon\Mood\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jquery\BaiTapLon\Mood\bin\Debug\PagedList.xml
+D:\Jquery\BaiTapLon\Mood\bin\Debug\PagedList.Mvc.xml
+D:\Jquery\BaiTapLon\Mood\obj\Debug\Mood.csprojResolveAssemblyReference.cache
+D:\Jquery\BaiTapLon\Mood\obj\Debug\Mood.dll
+D:\Jquery\BaiTapLon\Mood\obj\Debug\Mood.pdb
+D:\Jquery\Do_An\Mood\bin\Debug\Mood.dll.config
+D:\Jquery\Do_An\Mood\bin\Debug\Mood.dll
+D:\Jquery\Do_An\Mood\bin\Debug\Mood.pdb
+D:\Jquery\Do_An\Mood\bin\Debug\EntityFramework.dll
+D:\Jquery\Do_An\Mood\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jquery\Do_An\Mood\bin\Debug\EntityFramework.xml
+D:\Jquery\Do_An\Mood\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jquery\Do_An\Mood\obj\Debug\Mood.dll
+D:\Jquery\Do_An\Mood\obj\Debug\Mood.pdb
+D:\Jquery\Do_An\Mood\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Jquery\Do_An\Mood\bin\Debug\System.Web.Helpers.dll
+D:\Jquery\Do_An\Mood\bin\Debug\System.Web.Mvc.dll
+D:\Jquery\Do_An\Mood\bin\Debug\System.Web.Razor.dll
+D:\Jquery\Do_An\Mood\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Jquery\Do_An\Mood\bin\Debug\System.Web.WebPages.dll
+D:\Jquery\Do_An\Mood\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Jquery\Do_An\Mood\bin\Debug\X.PagedList.dll
+D:\Jquery\Do_An\Mood\bin\Debug\System.Web.Helpers.xml
+D:\Jquery\Do_An\Mood\bin\Debug\System.Web.Mvc.xml
+D:\Jquery\Do_An\Mood\bin\Debug\System.Web.Razor.xml
+D:\Jquery\Do_An\Mood\bin\Debug\System.Web.WebPages.xml
+D:\Jquery\Do_An\Mood\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Jquery\Do_An\Mood\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Jquery\Do_An\Mood\bin\Debug\X.PagedList.Mvc.dll
+D:\Jquery\Do_An\Mood\obj\Debug\Mood.csprojResolveAssemblyReference.cache
+D:\HocTap\Do_An\Mood\bin\Debug\Mood.dll.config
+D:\HocTap\Do_An\Mood\bin\Debug\Mood.dll
+D:\HocTap\Do_An\Mood\bin\Debug\Mood.pdb
+D:\HocTap\Do_An\Mood\bin\Debug\EntityFramework.dll
+D:\HocTap\Do_An\Mood\bin\Debug\EntityFramework.SqlServer.dll
+D:\HocTap\Do_An\Mood\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\HocTap\Do_An\Mood\bin\Debug\System.Web.Helpers.dll
+D:\HocTap\Do_An\Mood\bin\Debug\System.Web.Mvc.dll
+D:\HocTap\Do_An\Mood\bin\Debug\System.Web.Razor.dll
+D:\HocTap\Do_An\Mood\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\HocTap\Do_An\Mood\bin\Debug\System.Web.WebPages.dll
+D:\HocTap\Do_An\Mood\bin\Debug\System.Web.WebPages.Razor.dll
+D:\HocTap\Do_An\Mood\bin\Debug\X.PagedList.dll
+D:\HocTap\Do_An\Mood\bin\Debug\X.PagedList.Mvc.dll
+D:\HocTap\Do_An\Mood\bin\Debug\EntityFramework.xml
+D:\HocTap\Do_An\Mood\bin\Debug\EntityFramework.SqlServer.xml
+D:\HocTap\Do_An\Mood\bin\Debug\System.Web.Helpers.xml
+D:\HocTap\Do_An\Mood\bin\Debug\System.Web.Mvc.xml
+D:\HocTap\Do_An\Mood\bin\Debug\System.Web.Razor.xml
+D:\HocTap\Do_An\Mood\bin\Debug\System.Web.WebPages.xml
+D:\HocTap\Do_An\Mood\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\HocTap\Do_An\Mood\bin\Debug\System.Web.WebPages.Razor.xml
+D:\HocTap\Do_An\Mood\obj\Debug\Mood.csproj.AssemblyReference.cache
+D:\HocTap\Do_An\Mood\obj\Debug\Mood.csproj.CoreCompileInputs.cache
+D:\HocTap\Do_An\Mood\obj\Debug\Mood.csproj.CopyComplete
+D:\HocTap\Do_An\Mood\obj\Debug\Mood.dll
+D:\HocTap\Do_An\Mood\obj\Debug\Mood.pdb
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\Mood.dll.config
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\Mood.dll
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\Mood.pdb
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\EntityFramework.dll
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\System.Web.Helpers.dll
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\System.Web.Mvc.dll
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\System.Web.Razor.dll
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\System.Web.WebPages.dll
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\X.PagedList.dll
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\X.PagedList.Mvc.dll
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\EntityFramework.xml
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\System.Web.Helpers.xml
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\System.Web.Mvc.xml
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\System.Web.Razor.xml
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\System.Web.WebPages.xml
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Lập Trình Web ASP\BookShop\Mood\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Lập Trình Web ASP\BookShop\Mood\obj\Debug\Mood.csproj.AssemblyReference.cache
+D:\Lập Trình Web ASP\BookShop\Mood\obj\Debug\Mood.csproj.CoreCompileInputs.cache
+D:\Lập Trình Web ASP\BookShop\Mood\obj\Debug\Mood.csproj.CopyComplete
+D:\Lập Trình Web ASP\BookShop\Mood\obj\Debug\Mood.dll
+D:\Lập Trình Web ASP\BookShop\Mood\obj\Debug\Mood.pdb
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\Mood.dll.config
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\Mood.dll
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\Mood.pdb
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\EntityFramework.dll
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\EntityFramework.SqlServer.dll
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\System.Web.Helpers.dll
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\System.Web.Mvc.dll
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\System.Web.Razor.dll
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\System.Web.WebPages.dll
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\X.PagedList.dll
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\X.PagedList.Mvc.dll
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\EntityFramework.xml
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\EntityFramework.SqlServer.xml
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\System.Web.Helpers.xml
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\System.Web.Mvc.xml
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\System.Web.Razor.xml
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\System.Web.WebPages.xml
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\obj\Debug\Mood.csproj.AssemblyReference.cache
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\obj\Debug\Mood.csproj.CoreCompileInputs.cache
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\obj\Debug\Mood.csproj.CopyComplete
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\obj\Debug\Mood.dll
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\obj\Debug\Mood.pdb
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\System.Data.SqlClient.dll
+E:\Hoctap\HocKi_7\TTTN\BookShop\Mood\bin\Debug\System.Data.SqlClient.xml
